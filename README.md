@@ -1,5 +1,5 @@
 # YouTube-Data-API
-Upload videos to YouTube using Data API & PHP
+Upload videos to YouTube using Data API, MySQL & PHP
 
 # Database Table Creation
 
